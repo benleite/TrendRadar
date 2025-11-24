@@ -143,6 +143,10 @@ platforms:
     name: "知乎"
   - id: "hupu"
     name: "虎扑"
+  - id: "weixin"
+    name: "微信"
+  - id: "qq"
+    name: "腾讯"
 
   # === 科技类平台 ===
   - id: "ithome"
@@ -169,3 +173,5 @@ platforms:
   # === 其他/工具类 ===
   - id: "chongbuluo"
     name: "虫部落"
+  - id: "zhibo8"
+    name: "直播把"
